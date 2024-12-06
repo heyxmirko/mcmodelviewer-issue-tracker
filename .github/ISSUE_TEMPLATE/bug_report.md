@@ -30,10 +30,8 @@ Please attach any relevant screenshots, models, or textures. This could include:
 - Any other relevant assets or media files
 
 ### 🔧 Environment
-- **Minecraft Version**: [e.g., 1.21]
-- **Plugin/Mod Version**: [e.g., 1.0.0]
 - **Operating System**: [Windows/Linux/macOS]
-- **Additional Configurations**: [e.g., server configuration, Java version, etc.]
+- **Additional Information**: [e.g., server configuration, Browser type, etc.]
 
 ### ⚠️ Additional Information
 Please provide any additional information that could help in diagnosing the issue:
