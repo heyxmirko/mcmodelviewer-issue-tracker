@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature or enhancement for [Your Project Name].
+about: Suggest a new feature or enhancement for MC Model Viewer.
 title: "[FEATURE] - Brief description of the feature"
 labels: enhancement
 assignees: ''
